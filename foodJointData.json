@@ -1,0 +1,53 @@
+{
+  "Metro_Joint": {
+    "Sandwiches": {
+      "Corn Sandwich": "45",
+      "Egg Sandwich": "30",
+      "Veg Sandwich": "35",
+      "Paneer Sandwich": "40",
+      "Mushroom Sandwich": "50",
+      "Chicken Sandwich": "60"
+    },
+    "Rolls": {
+      "Corn Roll": "45",
+      "Egg Roll": "30",
+      "Veg Roll": "35",
+      "Paneer Roll": "40",
+      "Mushroom Roll": "50",
+      "Chicken Roll": "60"
+    },
+    "Burgers": {
+      "Corn Burger": "45",
+      "Egg Burger": "30",
+      "Veg Burger": "35",
+      "Paneer Burger": "40",
+      "Mushroom Burger": "50",
+      "Chicken Burger": "60"
+    },
+    "Milkshakes": {
+      "Apple Milkshake": "30",
+      "Orange Milkshake": "40",
+      "Banana Milkshake": "50",
+      "Watermelon Milkshake": "60",
+      "Muskmelon Milkshake": "70",
+      "Guava Milkshake": "80",
+      "Strawberry Milkshake": "90",
+      "DragonFruit Milkshake": "100"
+    }
+  },
+  "Clubhouse": {
+    "Buddha_Bowls": {
+      "Veg Buddha Bowl": "120",
+      "Grain Buddha Bowl": "180",
+      "Egg Buddha Bowl": "250",
+      "Chicken Buddha Bowl": "300",
+      "Mix Buddha Bowl": "400"
+    },
+    "Pasta": {
+      "Penne pasta with white sauce": "110",
+      "Sphaghetti Aglio-e-olio": "290",
+      "Soy Sauce Alfredo pasta": "340",
+      "Seafood pasta": "510"
+    }
+  }
+}

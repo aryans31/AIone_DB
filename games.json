@@ -1,0 +1,30 @@
+[
+    {
+        "loc": "BLR01.F2",
+        "name": "Pool"
+    },
+    {
+        "loc": "BLR05.F1",
+        "name": "Carrom Board"
+    },
+    {
+        "loc": "BLR02.F2",
+        "name": "Foosball"
+    },
+    {
+        "loc": "BLR02.F2",
+        "name": "Pool"
+    },
+    {
+        "loc": "BLR05.F4",
+        "name": "Table Tennis"
+    },
+    {
+        "loc": "BLR05",
+        "name": "Football Turf"
+    },
+    {
+        "loc": "BLR04.F3",
+        "name": "Pool"
+    }
+]

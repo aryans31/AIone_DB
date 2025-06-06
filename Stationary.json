@@ -1,0 +1,32 @@
+[
+  {
+    "item": "Pen",
+    "count": "200",
+    "price": "20"
+  },
+  {
+    "item": "Pencil",
+    "count": "350",
+    "price": "10"
+  },
+  {
+    "item": "Eraser",
+    "count": "178",
+    "price": "05"
+  },
+  {
+    "item": "Cutter",
+    "count": "300",
+    "price": "08"
+  },
+  {
+    "item": "Notepad",
+    "count": "1000",
+    "price": "70"
+  },
+  {
+    "item": "Magnet",
+    "count": "218",
+    "price": "32"
+  }
+]

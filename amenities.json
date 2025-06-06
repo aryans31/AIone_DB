@@ -1,0 +1,34 @@
+[
+    {
+        "aname": "General Medical",
+        "location": "BLR01.F0"
+    },
+    {
+        "aname": "Yoga Hall",
+        "location": "BLR01.F0"
+    },
+    {
+        "aname": "Seminar Hall",
+        "location": "BLR01.F0"
+    },
+    {
+        "aname": "Auditorium",
+        "location": "BLR01.F0"
+    },
+    {
+        "aname": "Physiotherapy",
+        "location": "BLR01.F0"
+    },
+    {
+        "aname": "Library",
+        "location": "BLR01.F0"
+    },
+    {
+        "aname": "Recreation Room",
+        "location": "BLR01.F0"
+    },
+    {
+        "aname": "MLC Parking",
+        "location": "In Campus"
+    }
+]

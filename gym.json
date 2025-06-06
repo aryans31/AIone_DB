@@ -1,0 +1,37 @@
+[
+    {
+        "eid": "001",
+        "ename": "Dumbell",
+        "count": "20"
+    },
+    {
+        "eid": "002",
+        "ename": "Treadmill",
+        "count": "04"
+    },
+    {
+        "eid": "003",
+        "ename": "Press Bench",
+        "count": "02"
+    },
+    {
+        "eid": "004",
+        "ename": "Stepper",
+        "count": "06"
+    },
+    {
+        "eid": "005",
+        "ename": "Exercise Bike",
+        "count": "08"
+    },
+    {
+        "eid": "006",
+        "ename": "Dumbell 10KG",
+        "count": "04"
+    },
+    {
+        "eid": "007",
+        "ename": "Cross Trainer",
+        "count": "03"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "location": "BLR01",
+        "count": "100"
+    },
+    {
+        "location": "BLR02",
+        "count": "10"
+    },
+    {
+        "location": "BLR03",
+        "count": "50"
+    },
+    {
+        "location": "MLCP01",
+        "count": "0"
+    },
+    {
+        "location": "MLCP02",
+        "count": "18"
+    },
+    {
+        "location": "MLCP03",
+        "count": "34"
+    }
+]

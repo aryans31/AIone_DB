@@ -1,0 +1,32 @@
+[
+    {
+        "name": "To Kill a Mockingbird",
+        "author":"Harper Lee",
+        "count": "100"
+    },
+    {
+        "name": "1984",
+        "author":"George Orwell",
+        "count": "10"
+    },
+    {
+        "name": "Pride and Prejudice",
+        "author":"Jane Austen",
+        "count": "50"
+    },
+    {
+        "name": "The Great Gatsby",
+        "author":"F. Scott Fitzgerald",
+        "count": "0"
+    },
+    {
+        "name": "The Catcher in the Rye",
+        "author":"J.D. Salinger",
+        "count": "18"
+    },
+    {
+        "name": "The Lord of the Rings",
+        "author":"J.R.R. Tolkien",
+        "count": "34"
+    }
+]
