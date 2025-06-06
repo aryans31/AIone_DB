@@ -33,5 +33,10 @@
         "eid": "007",
         "ename": "Cross Trainer",
         "count": "03"
+    },
+     {
+        "eid": "008",
+        "ename": "gripper",
+        "count": "03"
     }
 ]
